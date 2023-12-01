@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20vh;
+}
+.square {
+    width: 500px;
+    height: 500px;
+    border: 2px solid rgba(19, 110, 204, 0.4);
+    background-color: #000000;
+    color: #ffff;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
